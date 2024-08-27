@@ -1,4 +1,4 @@
-<img width="100%" height="380" src="https://pa1.aminoapps.com/7045/571756316cd4b6b6e6af7f6d074f59e1832bfacdr1-493-277_hq.gif"/>
+<img width="100%" height="400" src="https://pa1.aminoapps.com/7045/571756316cd4b6b6e6af7f6d074f59e1832bfacdr1-493-277_hq.gif"/>
 
 <h1 align="center">👋 &nbsp;¡Hi, my name is Fausto Ortega Reyes! 😁 </h1> 
 
