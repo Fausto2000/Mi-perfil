@@ -11,4 +11,7 @@
 
 <h2>💪 &nbsp; Mi motivación diaria </h2>
 
-<video width="100%" height="400" src="C:\Users\USUARIO2\Documents\GitHub\video">
+<video width="350" height="400" controls>
+<source src="https://github.com/user-attachments/assets/8ce65776-1b7d-448f-99af-0f6433fdbfb7" type="video/mp4"> 
+
+</video>
