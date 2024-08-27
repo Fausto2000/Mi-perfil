@@ -1,4 +1,5 @@
 <picture> <img align="center" src="https://i.imgur.com/iXuL1HG.png" width = 400px></picture>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">👋 &nbsp;¡Hi, my name is Fausto Ortega Reyes! 😁 </h1> 
 
