@@ -11,7 +11,7 @@
 
 <h2> &nbsp; Mis logros en el ITSS 
 
-📄 &nbsp;Ganamos con mis compañero el 2do lugar con nuetro proyecto de Automatic Irrigation System (Sistema de Riego Automático)
+📄 &nbsp; Ganamos con mis compañeros el 2do lugar con nuetro proyecto de Automatic Irrigation System (Sistema de Riego Automático) 
 
 <h2>💪 &nbsp; Mi motivación diaria </h2>
 
