@@ -11,7 +11,9 @@
 
 <h2>💪 &nbsp; Mi motivación diaria </h2>
 
-https://github.com/user-attachments/assets/99eb00bf-c007-4bc8-af8b-b564e6720f40
+https://github.com/user-attachments/assets/6f6b8ff0-8b64-4a23-a661-dc20ae660abe
+
+
 
 
 
