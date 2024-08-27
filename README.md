@@ -10,4 +10,3 @@
 📌 &nbsp; ¡Puedes escribirme a faustoortega11@gmail.com!
 
 <h2>💪 &nbsp; Mi motivación diaria </h2>
-<video link=https://github.com/user-attachments/assets/df76aecf-5aa0-4fca-9569-1b8ca46abc6b> </video>
