@@ -9,7 +9,7 @@
 📌 &nbsp; Mi Curriculum esta adjunto a este repositorio. ☝<br><br>
 📌 &nbsp; ¡Puedes escribirme a faustoortega11@gmail.com!
 
-<h2> &nbsp; Mis logros en el ITSS 
+<h2> &nbsp; Mis logros en el ITSS </h2>
 
 📄 &nbsp; Ganamos con mis compañeros el 2do lugar con nuetro proyecto de Automatic Irrigation System (Sistema de Riego Automático) 
 
