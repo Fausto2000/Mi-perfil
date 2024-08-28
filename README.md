@@ -21,7 +21,7 @@
 <h2>💪 &nbsp; Mi motivación diaria </h2>
 
 <video>
-<source src="https://drive.google.com/file/d/1tbeGtWgvofHNFMLezQTv9nxYaP1jEG4Y/view?usp=drive_link"/>
+<source src="https://drive.google.com/file/d/1tbeGtWgvofHNFMLezQTv9nxYaP1jEG4Y/view?usp=drive_link">
 </video>
 
 
