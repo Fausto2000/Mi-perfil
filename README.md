@@ -1,4 +1,4 @@
-<img width="100%" height="auto" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fpython%3Fsort%3Drelevant&psig=AOvVaw0ON027K8miRzwvrjmm1vyl&ust=1724950015829000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMCmvNqRmIgDFQAAAAAdAAAAABBC"/>
+<img width="100%" height="auto" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHliNm5sMGNiYWU0aGQ0MW9lcmUwaWJqbmpxYzFpbmljYW40cGN2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.webp"/>
 
 <h1 align="center"> &nbsp; Proyecto Python? </h1> 
 
