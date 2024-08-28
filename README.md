@@ -14,7 +14,7 @@
 📄 &nbsp; Ganamos el 2do lugar con nuetro primer proyecto de Automatic Irrigation System (Sistema de Riego Automático) 
 
 📄 &nbsp; Ganamos el segundo lugar con nuestro segudno proyecto de 
-<img width="140%" height="auto" src="heigt![proyecto2](https://github.com/user-attachments/assets/d45e792c-3454-4cf1-b94f-24fcc47f26e3)"
+<img width="500" height="600" src="heigt![proyecto2](https://github.com/user-attachments/assets/d45e792c-3454-4cf1-b94f-24fcc47f26e3)"
 
 
 
