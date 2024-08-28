@@ -20,7 +20,7 @@
 
 <h2>💪 &nbsp; Mi motivación diaria </h2>
 <video>
-<source src="C:\Users\USUARIO2\Downloads\mp4"/>
+<source src="C:\Users\USUARIO2\Downloads.mp4"/>
 </video>
 
 
