@@ -20,7 +20,7 @@
 
 <h2>💪 &nbsp; Mi motivación diaria </h2>
 <video>
-<source src="https://github.com/user-attachments/assets/2369fad6-9e54-4a8d-ab3a-5be91317533b"/>
+<source src="C:\Users\USUARIO2\Downloads\mp4"/>
 </video>
 
 
