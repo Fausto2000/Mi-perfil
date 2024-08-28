@@ -19,7 +19,9 @@
 
 
 <h2>💪 &nbsp; Mi motivación diaria </h2>
-https://github.com/user-attachments/assets/f69fe29a-f8d6-4167-a689-03aeffb4ca10
+<video>
+<source src="https://github.com/user-attachments/assets/2369fad6-9e54-4a8d-ab3a-5be91317533b">
+</video>
 
 
 
