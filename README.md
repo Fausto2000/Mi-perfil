@@ -19,9 +19,8 @@
 
 
 <h2>💪 &nbsp; Mi motivación diaria </h2>
-<video>
-<source src="C:\Users\USUARIO2\Downloads.mp4"/>
-</video>
+
+https://drive.google.com/file/d/1tbeGtWgvofHNFMLezQTv9nxYaP1jEG4Y/view?usp=drive_link
 
 
 
