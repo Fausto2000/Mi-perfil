@@ -14,7 +14,7 @@
 📄 &nbsp; Ganamos el 2do lugar con nuetro primer proyecto de Automatic Irrigation System (Sistema de Riego Automático) 
 
 📄 &nbsp; Ganamos el segundo lugar con nuestro segudno proyecto de 
-<img width="800" height="600" src="https://drive.google.com/file/d/1uf0hh63Ma1h_IOlSShIaoa5aEo7kMWiG/view?usp=drive_link"/>
+<img src="https://github.com/user-attachments/assets/0f6842b9-4873-4eb3-b6cd-1927720340d0.jpg"/>
 
 
 
