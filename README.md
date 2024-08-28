@@ -1,4 +1,4 @@
-<img width="100%" height="auto" src="" height="175px"/></a>
+<img width="100%" height="auto" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fpython%3Fsort%3Drelevant&psig=AOvVaw0ON027K8miRzwvrjmm1vyl&ust=1724950015829000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMCmvNqRmIgDFQAAAAAdAAAAABBC"/>
 
 <h1 align="center"> &nbsp; Proyecto Python? </h1> 
 
