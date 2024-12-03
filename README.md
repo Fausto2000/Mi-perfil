@@ -1,27 +1,9 @@
-<img width="100%" height="400" src="https://pa1.aminoapps.com/7045/571756316cd4b6b6e6af7f6d074f59e1832bfacdr1-493-277_hq.gif"/>
+<img width="100%" height="auto" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHliNm5sMGNiYWU0aGQ0MW9lcmUwaWJqbmpxYzFpbmljYW40cGN2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.webp"/>
 
-<h1 align="center">👋 &nbsp;¡Hi, my name is Fausto Ortega Reyes! 😁 </h1> 
+<h1 align="center"> &nbsp; Proyecto Python 👨🏻‍💻 </h1> 
 
-<h2>👨🏻‍💻 &nbsp; Acerca de mí 🤔</h2>
-
-📌 &nbsp; Soy un estudiante del Instituto Tenológico Superior Speedwriting, me considero una persona activa, cursiosa y trabajador. Tengo muchos proyectos y metas, uno de los proyectos es crear páginas web para ventas productos digitales<br><br>
-📌 &nbsp; En mi tiempo libre realizo trbajos de limpieza de muebles, colchones, alfombras  <br><br>
-📌 &nbsp; Mi Curriculum esta adjunto a este repositorio. ☝<br><br>
-📌 &nbsp; ¡Puedes escribirme a faustoortega11@gmail.com!
-
-<h2> &nbsp; Mis logros en el ITSS </h2>
-
-📄 &nbsp; Ganamos el 2do lugar con nuetro primer proyecto de Automatic Irrigation System (Sistema de Riego Automático) 
-
-📄 &nbsp; Ganamos el segundo lugar con nuestro segudno proyecto de 
-<img src="https://github.com/user-attachments/assets/0f6842b9-4873-4eb3-b6cd-1927720340d0"/>
-
-
-
-<h2>💪 &nbsp; Mi motivación diaria </h2>
-https://github.com/user-attachments/assets/0541908f-7eec-4623-a17c-f262b809b600
-
-
+<h2> &nbsp;¿Qué es Python?</h2>
+ Python es un lenguaje de programación de alto nivel, interpretado y de propósito general. Es conocido por su sintaxis sencilla y clara, lo que lo hace fácil de aprender y usar, tanto para principiantes como para programadores experimentados. Python fue creado por Guido van Rossum y lanzado por primera vez en 1991.
 
 
 
